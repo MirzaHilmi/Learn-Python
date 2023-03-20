@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MirzaHilmi/Python-Learning/master/header-image.png" alt="banner that says Python Learning Courses">
+<img src="https://raw.githubusercontent.com/MirzaHilmi/Learn-Python/master/header-image.png" alt="banner that says Python Learning Courses">
 
 # Learn Python
 
-Welcome to the GitHub repository for my Python Learning Path! Here you will find all the materials, assignments, projects, and other resources related to the course i learn online.
+Welcome to the GitHub repository for my Python Learning Path! Here you will find all the materials, assignments, projects, and other resources related to the course i learn online.****
 
 ## Table of Contents
 
