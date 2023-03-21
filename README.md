@@ -2,7 +2,7 @@
 
 # Learn Python
 
-Welcome to the GitHub repository for my Python Learning Path! Here you will find all the materials, assignments, projects, and other resources related to the course i learn online.****
+Welcome to the GitHub repository for my Python Learning Path! Here you will find all the materials, assignments, projects, and other resources related to the course i learn online.
 
 ## Table of Contents
 
